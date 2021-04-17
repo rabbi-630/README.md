@@ -69,14 +69,14 @@
 <div align="center">
 
 My top project 🧡💛💙💜
-- The Best blogger template [See Now](https://mrlaboratory.github.io/the-best-blogger-template/) 
-- Cocoen Deag [See Now](https://mrlaboratory.github.io/CocoenDeag/) 
-- Calculator [See Now](https://mrlaboratory.github.io/calculator2/) 
-- Embad Site [See Now](https://mrlaboratory.github.io/embadsite/) 
-- Blogger RSS [See Now](https://mrlaboratory.github.io/bloggerRssFeed/)
-- Get Youtube video info [See Now](https://mrlaboratory.github.io/Get-Youtube-video-information/)
-- CV [See Now](https://template7.mrlaboratory.info/)
-- - Images slider [See Now](https://template10.mrlaboratory.info/)
+- The Best blogger template [See Now](https://rabbi-630.github.io/the-best-blogger-template/) 
+- Cocoen Deag [See Now](https://rabbi-630.github.io/CocoenDeag/) 
+- Calculator [See Now](https://rabbi-630.github.io/calculator2/) 
+- Embad Site [See Now](https://rabbi-630.github.io/embadsite/) 
+- Blogger RSS [See Now](https://rabbi-630.github.io/bloggerRssFeed/)
+- Get Youtube video info [See Now](https://rabbi-630.github.io/Get-Youtube-video-information/)
+- CV [See Now](https://link.icthack.com/)
+- - Images slider [See Now](https://template10.icthack.info/)
 
 
 
