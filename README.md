@@ -47,8 +47,8 @@
 
 [![Twitter: Mohammed Gulam Rabbi](https://img.shields.io/twitter/follow/mdgulamrabbi24?style=social)](https://twitter.com/mdgulamrabbi24)
 [![Linkedin: Mohammed Gulam Rabbi](https://img.shields.io/badge/-mdgulam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdgulamrabbi/)](https://www.linkedin.com/in/mdgulamrabbi/)
-[![GitHub iampawan](https://img.shields.io/github/followers/mdgulamrabbi?label=follow&style=social)](https://github.com/mrlaboratory)
-[![website](https://img.shields.io/badge/PortfolioWebsite-mrlaboratory.com-2648ff?style=flat-square&logo=google-chrome)](https://www.icthack.com/)
+[![GitHub iampawan](https://img.shields.io/github/followers/mdgulamrabbi?label=follow&style=social)](https://github.com/rabbi-630)
+[![website](https://img.shields.io/badge/PortfolioWebsite-icthack.com-2648ff?style=flat-square&logo=google-chrome)](https://www.icthack.com/)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
