@@ -7,7 +7,7 @@
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbi-630&label=Views&color=blue&style=plastic" alt="mrlaboratory" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbi-630&label=Views&color=blue&style=plastic" alt="icthack" /> </p>
 
 <a href="https://www.facebook.com/rabbi630/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
