@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/rabbi630">Mohammed Gulam Rabbi</a></h1>
-<h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=site:icthack.com">ICTHack.com</a></h1>
+<h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=site:ictvibes.com">ICTVibes.com</a></h1>
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
     <img src="https://pbs.twimg.com/profile_images/1205855417680576518/VHB6LmkH.jpg" style="width:100%;height:100%" alt="">
 </div>
@@ -36,8 +36,8 @@
 <br/>
 <br/>
 
-- 📝 I regulary write articles on [www.icthack.com](https://www.icthack.com) 
-- 📝 I regulary write articles on [www.ictwap.org](https://ictwap.org) 
+- 📝 I regulary write articles on [www.ICTVibes.com](https://www.ICTVibes.com) 
+- 📝 I regulary write articles on [www.ICTVibes.org](https://ICTVibes.org) 
 - 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/MdGulamRabbi)
 - 🔭 I’m currently working on [Hostxver.com](https://www.hostxver.com/).
 - 🌱 I’m currently learning more about WebDevelopment.
