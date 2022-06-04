@@ -36,7 +36,8 @@
 <br/>
 <br/>
 
-- 📝 I regulary write articles on [www.ICTVibes.com](https://www.ICTVibes.com) 
+- 📝 I regulary write articles on [www.ICTVibes.com](https://www.ICTVibes.com)
+- 📝 I regulary write articles on [www.tenask.com](https://www.tenask.com/) 
 - 📝 I regulary write articles on [www.ICTVibes.org](https://ICTVibes.org) 
 - 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/MdGulamRabbi)
 - 🔭 I’m currently working on [Hostxver.com](https://www.hostxver.com/).
@@ -48,7 +49,7 @@
 [![Twitter: Mohammed Gulam Rabbi](https://img.shields.io/twitter/follow/mdgulamrabbi24?style=social)](https://twitter.com/mdgulamrabbi24)
 [![Linkedin: Mohammed Gulam Rabbi](https://img.shields.io/badge/-mdgulam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdgulamrabbi/)](https://www.linkedin.com/in/mdgulamrabbi/)
 [![GitHub iampawan](https://img.shields.io/github/followers/mdgulamrabbi?label=follow&style=social)](https://github.com/rabbi-630)
-[![website](https://img.shields.io/badge/PortfolioWebsite-icthack.com-2648ff?style=flat-square&logo=google-chrome)](https://www.icthack.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-icthack.com-2648ff?style=flat-square&logo=google-chrome)](https://www.tenask.com/)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
