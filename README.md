@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/rabbi630">Mohammed Gulam Rabbi</a></h1>
 <h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=site:Ax2z.com">Ax2z.com</a></h1>
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
-    <img src="https://pbs.twimg.com/profile_images/1562140158467911681/RIlig7xc_400x400.jpg" style="width:100%;height:100%" alt="">
+    <img src="[https://pbs.twimg.com/profile_images/1562140158467911681/RIlig7xc_400x400.jpg](https://i.imgur.com/q9cvD0Y.png)" style="width:100%;height:100%" alt="">
 </div>
 
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
