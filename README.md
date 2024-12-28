@@ -37,11 +37,11 @@
 <br/>
 
 - 📝 I regulary write articles on [www.Ax2z.com](https://www.Ax2z.com)
-- 📝 I regulary write articles on [www.Hostxver.com](https://www.hostxver.com/) 
-- 📝 I regulary write articles on [www.ICTVibes.org](https://ICTVibes.org) 
+- 📝 I regulary write articles on [info.ax2z.com](https://info.ax2z.com/) 
+- 📝 I regulary write articles on [www.ictwap.com](https://ictwap.com) 
 - 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/MdGulamRabbi)
-- 🔭 I’m currently working on [Hostxver.com](https://www.hostxver.com/).
-- 🌱 I’m currently learning more about WebDevelopment.
+- 🔭 I’m currently working on [AX2Z IT Solution](https://www.AX2Z.com/).
+- 🌱 I’m currently learning more about Web Development.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/MdGulamRabbi).
 - 💬 Ask me about webdevelopment or any tech related stuff.
 - 📫 How to reach me: [Twitter@mdgulamrabbi24](https://twitter.com/mdgulamrabbi24) , [Youtube@MdGulamRabbi](https://youtube.com/MdGulamRabbi)
